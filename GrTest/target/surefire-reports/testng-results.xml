@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T21:10:32 IDT" name="All Test Suite" finished-at="2021-03-30T21:15:17 IDT" duration-ms="285132">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T21:10:32 IDT" name="/Users/asaf.mishaeli/Development/GrTest" finished-at="2021-03-30T21:15:17 IDT" duration-ms="285132">
+      <class name="tests.AndroidUpdate">
+        <test-method signature="testUpgradeDemoDMUser()[pri:0, instance:tests.AndroidUpdate@5a955565]" started-at="2021-03-30T21:10:32 IDT" name="testUpgradeDemoDMUser" finished-at="2021-03-30T21:13:01 IDT" duration-ms="148739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpgradeDemoDMUser -->
+        <test-method signature="testUpgradeDemoDMUser2()[pri:0, instance:tests.AndroidUpdate@5a955565]" started-at="2021-03-30T21:13:01 IDT" name="testUpgradeDemoDMUser2" finished-at="2021-03-30T21:15:17 IDT" duration-ms="136359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpgradeDemoDMUser2 -->
+      </class> <!-- tests.AndroidUpdate -->
+    </test> <!-- /Users/asaf.mishaeli/Development/GrTest -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

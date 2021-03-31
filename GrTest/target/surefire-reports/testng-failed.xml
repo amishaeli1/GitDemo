@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Utils.Listeners"/>
+    <listener class-name="Utils.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="/Users/asaf.mishaeli/Development/GrTest(failed)" verbose="0">
+    <classes>
+      <class name="tests.AndroidUpdate">
+        <methods>
+          <include name="testUpgradeDemoDMUser2"/>
+          <include name="testUpgradeDemoDMUser"/>
+        </methods>
+      </class> <!-- tests.AndroidUpdate -->
+    </classes>
+  </test> <!-- /Users/asaf.mishaeli/Development/GrTest(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
